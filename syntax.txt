@@ -1,0 +1,4 @@
+"http://www.panoramio.com/map#lt=& [Latitude] &"&ln="& [Longitude] &"&z=4"
+"https://www.google.com/maps/place/@& [Latitude] &","& [Longitude] &",1021m/data=!3m1!1e3"
+"https://www.bing.com/mapspreview?&cp=& [Latitude] &"~"& [Longitude] &"&lvl=16&style=h"
+"http://wikimapia.org/#lang=en&lat=& [Latitude] &"&lon="& [Longitude] &"&z=14&m"
