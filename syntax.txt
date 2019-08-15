@@ -1,3 +1,5 @@
 "https://www.openstreetmap.org/#map=12/"& [POINT_Y] &"/"& [POINT_X]
 "https://www.bing.com/maps/?v=2&cp="& [POINT_Y]&"~"& [POINT_X]
 "https://maps.google.com/maps?ll="& [POINT_Y]&" ,"& [POINT_X]&" &q="& [POINT_Y]&" ,"& [POINT_X]&" &hl=en&t=h&z=12"
+"https://www.strava.com/heatmap#10.86/"& [POINT_X] &"/"& [POINT_Y] &"/hot/all"
+"https://www.flightradar24.com/"& [POINT_Y] &","& [POINT_X] &"/12"
