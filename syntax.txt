@@ -1,3 +1,4 @@
+"https://apps.sentinel-hub.com/eo-browser/?lat="& [POINT_Y] &"&lng="& [POINT_X] &"&zoom=14"
 "https://www.openstreetmap.org/#map=12/"& [POINT_Y] &"/"& [POINT_X]
 "https://www.bing.com/maps/?v=2&cp="& [POINT_Y]&"~"& [POINT_X]
 "https://maps.google.com/maps?ll="& [POINT_Y]&" ,"& [POINT_X]&" &q="& [POINT_Y]&" ,"& [POINT_X]&" &hl=en&t=h&z=12"
